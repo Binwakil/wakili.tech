@@ -10,7 +10,7 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "Almustapha A Wakili",
   heroDesignation: "Software Engineer/Educator",
-  heroDescriptions: `I am an accomplished Software Engineer at ATAFOM International and an esteemed Lecturer at Bayero University Kano. With over 5 years of experience in the software engineering field, and I am also former Near intern and a certified Near developer. I am specializes in frontend web development, PHP backend, Android application development with Kotlin/Java, and blockchain engineering with Rust, Solidity, and React JS.`,
+  heroDescriptions: `I am an accomplished Software Engineer at ATAFOM International and an esteemed Lecturer at Bayero University Kano. With over 10 years of experience in the software engineering field, and I am also former Near intern and a certified Near developer. I am specializes in frontend web development, PHP backend, Android application development with Kotlin/Java, and blockchain engineering with Rust, Solidity, and React JS.`,
   heroBtn: "more about me",
 };
 
