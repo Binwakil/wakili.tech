@@ -1,155 +1,212 @@
-import Image1 from "../../assets/img/portfolio/project-1.jpg";
-import Image2 from "../../assets/img/portfolio/project-2.jpg";
-import Image3 from "../../assets/img/portfolio/project-3.jpg";
-import Image4 from "../../assets/img/portfolio/project-4.jpg";
-import Image5 from "../../assets/img/portfolio/project-5.jpg";
-import Image6 from "../../assets/img/portfolio/project-6.jpg";
-import Image7 from "../../assets/img/portfolio/project-7.jpg";
-import Image8 from "../../assets/img/portfolio/project-8.jpg";
-import Image9 from "../../assets/img/portfolio/project-9.jpg";
+import Image1 from "../../assets/img/portfolio/project-1.png";
+import Image2 from "../../assets/img/portfolio/project-2.png";
+import Image3 from "../../assets/img/portfolio/project-3.png";
+import Image4 from "../../assets/img/portfolio/project-4.png";
+import Image5 from "../../assets/img/portfolio/project-5.png";
+import Image6 from "../../assets/img/portfolio/project-6.png";
+import Image7 from "../../assets/img/portfolio/project-7.png";
+import Image8 from "../../assets/img/portfolio/project-8.png";
+import Image9 from "../../assets/img/portfolio/project-9.png";
+
+import Image10 from "../../assets/img/portfolio/a3.jpg";
+import Image11 from "../../assets/img/portfolio/1.jpg";
+import Image12 from "../../assets/img/portfolio/5.png";
+import Image13 from "../../assets/img/portfolio/project-9.png";
+import Image14 from "../../assets/img/portfolio/project-9.png";
+import Image15 from "../../assets/img/portfolio/project-9.png";
+import Image16 from "../../assets/img/portfolio/project-9.png";
+import Image17 from "../../assets/img/portfolio/project-9.png";
 
 const PortfolioData = [
   {
     id: 1,
-    type: "mockup project",
+    type: "Web project",
     image: Image1,
-    tag: ["mockup"],
+    tag: ["web"],
     delayAnimation: "0",
     modalDetails: [
       {
-        project: "Website",
-        client: "Envato",
+        project: "ThirtyKobo Forex Market",
+        client: "ThirtyKobo",
         language: "HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com/",
+        preview: "www.thirtykobo.com",
+        link: "https://www.thirtykobo.com/",
       },
     ],
   },
   {
     id: 2,
-    type: "youtube project",
+    type: "Web project",
     image: Image2,
-    tag: ["video"],
+    tag: ["web"],
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "video",
-        client: "Videohive",
-        language: " Adobe After Effects",
-        preview: "www.videohive.net",
-        link: "https://www.videohive.net",
+        project: "Landing Page",
+        client: "rauda College",
+        language: "HML, CSS Javascrip",
+        preview: "www.raudacollge.edu.ng",
+        link: "https://www.raudacollege.edu.ng",
       },
     ],
   },
   {
     id: 3,
-    type: "slider project",
+    type: "Web project",
     image: Image3,
-    tag: [],
+    tag: ['web'],
     delayAnimation: "200",
     modalDetails: [
       {
-        project: "Website",
+        project: "Conisoft Accounting Solution",
         client: "Themeforest",
-        language: " HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com",
+        Techonolgy: " React, TypeScript, PHP, Javascript",
+        preview: "https://coniasoft.com/en/coniacloud/",
+        link: "https://coniasoft.com/en/coniacloud/",
       },
     ],
   },
   {
     id: 4,
-    type: "local project",
+    type: "Web project",
     image: Image4,
-    tag: ["logo", "video"],
+    tag: ["web"],
     delayAnimation: "0",
     modalDetails: [
       {
-        project: "video",
-        client: "Videohive",
-        language: " Adobe After Effects",
-        preview: "www.videohive.net",
-        link: "https://www.videohive.net",
+        project: "Conisoft SQL Backup",
+        client: "Perpect Timing Technologies",
+        Techonolgy: " ReactJS, TypeScript, PHP, JS",
+        preview: "https://coniacloud.com/en/sql-backup/",
+        link: "https://coniacloud.com/en/sql-backup/",
       },
     ],
   },
   {
     id: 5,
-    type: "saas project",
+    type: "Web Project",
     image: Image5,
-    tag: ["logo"],
+    tag: ["web"],
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "Web Application",
-        client: "Themeforest",
-        language: "HTML, CSS, ReactJS",
-        preview: "www.envato.com",
-        link: "https://themeforest.net/item/deski-saas-software-react-template/33799794",
+        project: "Atafom Online Campus",
+        client: "Atafom University",
+        language: "PHP, TailwindCSS, ReactJS",
+        preview: "https://atafom.university/onlinecampus/",
+        link: "https://atafom.university/onlinecampus/",
       },
     ],
   },
   {
     id: 6,
-    type: "mockup project",
+    type: "Web project",
     image: Image6,
-    tag: ["logo", "mockup"],
+    tag: ["web"],
     delayAnimation: "200",
     modalDetails: [
       {
-        project: "Website",
-        client: "Themeforest",
-        language: "HTML, CSS, Javascript",
-        preview: "www.pexels.com",
-        link: "https://www.pexels.com",
+        project: "Sayart Collection",
+        client: "Sakir Yabuk",
+        Technology: "ReactJS, TailwindCSS",
+        preview: "www.saysart.com",
+        link: "https://www.saysrt.com",
       },
     ],
   },
   {
     id: 7,
-    type: "facebook project",
+    type: "Web project",
     image: Image7,
-    tag: ["logo"],
+    tag: ["web"],
     delayAnimation: "0",
     modalDetails: [
       {
-        project: "Website",
-        client: "Facebook",
-        language: "HTML, CSS, Javascript",
-        preview: "www.facebook.com",
-        link: "https://www.facebook.com/ibthemes",
+        project: "ATAFOM University",
+        client: "Atafom University",
+        language: "HTML, TailwindCS, Javascript",
+        preview: "www.atafom.university",
+        link: "https://www.atafom.university",
       },
     ],
   },
   {
     id: 8,
-    type: "dribble project",
+    type: "Web project",
     image: Image8,
-    tag: ["graphic design"],
+    tag: ["web"],
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "Website",
-        client: "Dribbble",
-        language: "HTML, CSS, Javascript",
-        preview: "www.dribbble.com",
-        link: "https://dribbble.com/ib-themes",
+        project: "Conia Accounting SOftware",
+        client: "PPT",
+        language: "PHP, TypeScript, ReactJS, Javascript",
+        preview: "www.conisoft.com/accounting",
+        link: "https://www.conisoft.com/accounting",
       },
     ],
   },
   {
     id: 9,
-    type: "behence project",
+    type: "BLOCKCHAIN project",
     image: Image9,
-    tag: ["graphic design", "mockup"],
+    tag: ["blockchain"],
     delayAnimation: "200",
     modalDetails: [
       {
-        project: "Website",
-        client: "Behance",
-        language: "HTML, CSS, Javascript",
-        preview: "www.behance.com",
-        link: "https://www.behance.net/ib-themes",
+        project: "STEM TOKEN AUCTION SYSTEM",
+        client: "OXFORD",
+        language: "ReactJS, NearJS, Rust",
+        preview: "www.staemtas.com",
+        link: "https://www.stemtas.com",
+      },
+    ],
+  },
+  {
+    id: 10,
+    type: "Android APP",
+    image: Image10,
+    tag: ["mobile"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "WHATSAPP STATUS SAVER",
+        client: "PUBLIC",
+        Technology: "AndroidSTudio, Java, Firebase",
+        preview: "www.play.google.com/com.litetec",
+        link: "www.play.google.com/com.litetec",
+      },
+    ],
+  },
+  {
+    id: 11,
+    type: "Android APP",
+    image: Image11,
+    tag: ["mobile"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "FILE MANAGER",
+        client: "PUBLIC",
+        Technology: "AndroidSTudio, Java, Firebase",
+        preview: "www.play.google.com/com.litetec",
+        link: "www.play.google.com/com.litetec",
+      },
+    ],
+  },
+  {
+    id: 12,
+    type: "Android APP",
+    image: Image12,
+    tag: ["mobile"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "WHATSAPP STATUS SAVER",
+        client: "PUBLIC",
+        Technology: "AndroidSTudio, Java, Firebase",
+        preview: "www.play.google.com/com.litetec",
+        link: "www.play.google.com/com.litetec",
       },
     ],
   },

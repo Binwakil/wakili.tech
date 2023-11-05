@@ -14,6 +14,12 @@ const educationContent = [
     details: `BSC COMPUTER SCIENCE WITH FIRST CLASS 4.77/5.00 CGPA`,
   },
   {
+    year: "2017",
+    degree: "ORACLE CERTIFIED PROFESSIONAL",
+    institute: "HIIT",
+    details: `ORACLE CERTIFIED PROFESSIONAL CERTIFICATE,`,
+  },
+  {
     year: "2014",
     degree: "ASSOCIATE OF SCIENCE",
     institute: "INFORMATIC INSTITUTE",
