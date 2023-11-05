@@ -8,9 +8,9 @@ import Image7 from "../../assets/img/portfolio/project-7.png";
 import Image8 from "../../assets/img/portfolio/project-8.png";
 import Image9 from "../../assets/img/portfolio/project-9.png";
 
-import Image10 from "../../assets/img/portfolio/a3.jpg";
-import Image11 from "../../assets/img/portfolio/1.jpg";
-import Image12 from "../../assets/img/portfolio/5.png";
+import Image10 from "../../assets/img/portfolio/whats.jpg";
+import Image11 from "../../assets/img/portfolio/file.jpg";
+import Image12 from "../../assets/img/portfolio/qr.png";
 // import Image13 from "../../assets/img/portfolio/project-9.png";
 // import Image14 from "../../assets/img/portfolio/project-9.png";
 // import Image15 from "../../assets/img/portfolio/project-9.png";
