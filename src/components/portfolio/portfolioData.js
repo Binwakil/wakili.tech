@@ -11,11 +11,11 @@ import Image9 from "../../assets/img/portfolio/project-9.png";
 import Image10 from "../../assets/img/portfolio/a3.jpg";
 import Image11 from "../../assets/img/portfolio/1.jpg";
 import Image12 from "../../assets/img/portfolio/5.png";
-import Image13 from "../../assets/img/portfolio/project-9.png";
-import Image14 from "../../assets/img/portfolio/project-9.png";
-import Image15 from "../../assets/img/portfolio/project-9.png";
-import Image16 from "../../assets/img/portfolio/project-9.png";
-import Image17 from "../../assets/img/portfolio/project-9.png";
+// import Image13 from "../../assets/img/portfolio/project-9.png";
+// import Image14 from "../../assets/img/portfolio/project-9.png";
+// import Image15 from "../../assets/img/portfolio/project-9.png";
+// import Image16 from "../../assets/img/portfolio/project-9.png";
+// import Image17 from "../../assets/img/portfolio/project-9.png";
 
 const PortfolioData = [
   {
@@ -167,7 +167,7 @@ const PortfolioData = [
     type: "Android APP",
     image: Image10,
     tag: ["mobile"],
-    delayAnimation: "200",
+    delayAnimation: "0",
     modalDetails: [
       {
         project: "WHATSAPP STATUS SAVER",
@@ -183,7 +183,7 @@ const PortfolioData = [
     type: "Android APP",
     image: Image11,
     tag: ["mobile"],
-    delayAnimation: "200",
+    delayAnimation: "100",
     modalDetails: [
       {
         project: "FILE MANAGER",
