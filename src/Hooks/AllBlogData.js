@@ -1,10 +1,10 @@
 import { useState } from "react";
 import img1 from "../assets/img/blog/blog-post-1.png";
 import img2 from "../assets/img/blog/blog-post-2.jpg";
-import img3 from "../assets/img/blog/blog-post-2.jpg";
-import img4 from "../assets/img/blog/blog-post-2.jpg";
-import img5 from "../assets/img/blog/blog-post-2.jpg";
-import img6 from "../assets/img/blog/blog-post-2.jpg";
+// import img3 from "../assets/img/blog/blog-post-2.jpg";
+// import img4 from "../assets/img/blog/blog-post-2.jpg";
+// import img5 from "../assets/img/blog/blog-post-2.jpg";
+// import img6 from "../assets/img/blog/blog-post-2.jpg";
 
 const AllBlogData = () => {
   const blogsData = [
