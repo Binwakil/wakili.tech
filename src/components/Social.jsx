@@ -8,6 +8,7 @@ const SocialShare = [
   { iconName: "fa fa-github", link: "https://github.com/Binwakil" },
   { iconName: "fa fa-facebook", link: "https://www.facebook.com/binwakili" },
   { iconName: "fa fa-twitter", link: "https://twitter.com/binwakili" },
+  { iconName: "fa fa-medium", link: "https://twitter.com/binwakili" },
   {
     iconName: "fa fa-youtube",
     link: "https://www.youtube.com/almustaphawakili",
